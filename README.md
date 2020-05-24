@@ -14,4 +14,4 @@ http://localhost:8080/?bus=preview&preset=3&comp=2
 ```
 This allows using e.g. Bitfocus Companion along with a Streamdeck to create an alternate controller for joint control of both main bus source M/E's and their contents. for a specially crafted livesets consisting of a grid/mosaic of scenes.
 
-Have in mind that on Tricasters bus presets also include bus comps, 
+Have in mind that Tricasters' bus presets also include bus comp settings. 
