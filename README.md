@@ -6,6 +6,8 @@ Allowed parameters:
 bus=[program, preview]
 preset=[1...9]
 comp=[1...9]
+
+row=[a, b]
 source=[VIDEO1...VIDEO16, V1...V4, DDR1...DDR2, GFX1...GFX2, BFR1...BFR16] (not fully implemented)
 ```
 Basic usage:
